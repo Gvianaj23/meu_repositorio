@@ -39,7 +39,8 @@ section {
 .article-1 {
     background-color: #ffff;
     border-radius: 5px;
-    
+    line-height: 1.5;
+    padding: 0.5px;
 }
 
 p {
@@ -80,5 +81,11 @@ button {
     border-radius: 3px;
     padding: 3px;
 }
+ footer {
+    margin-top: 5px ;
+    padding: 5px;
+    margin-inline-end: 250px ;
+    margin-inline-start: 250px;
+ }
 
 
