@@ -1,0 +1,72 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+main {
+    background-color: #E4E4E4 ;
+    margin: 3px;
+}
+
+header {
+    background-color: #ffff;  
+}
+
+
+section {
+    margin-top: 5px ;
+    padding: 5px;
+    margin-inline-end: 250px ;
+    margin-inline-start: 250px;
+}
+
+
+.logo-kenzie {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.title-pag {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.title-section {
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.article-1 {
+    background-color: #ffff;
+    border-radius: 5px;
+    
+}
+a {
+    display: block;
+    text-align: end;
+    padding-right: 10px;
+}
+
+
+.form {
+    background-color: #3490FF;
+    border: 5px solid black;
+    color: #ffff;
+    text-align: center;
+    border-radius: 5px;
+}
+button {
+    background-color: black;
+    color:#ffff;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+p {
+    padding: 10px;
+}
+
+.paragraph-form {
+    font-weight:400;
+}
